@@ -1,5 +1,7 @@
 # Photography Gallery Website 🌟📸  
 
+<img src="https://i.imghippo.com/files/Jza9853cs.jpg" alt="" border="0">
+
 A sleek and modern photography gallery website designed to showcase stunning visuals and creative talent. This project is perfect for photographers, art enthusiasts, or anyone looking to display their work in a professional, user-friendly online gallery.  
 
 
